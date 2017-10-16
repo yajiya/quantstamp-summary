@@ -315,16 +315,12 @@ STP| Vijay Ganesh| STP是针对求解位向量和数组的约束条件的约束�
 
 **联合创始人** | &nbsp;
 ---|---
-![image](https://quantstamp.com/wp-content/uploads/2017/09/Steven-Stewart-SQ.png) | **Steven Stewart** <br/> 滑铁卢大学ECE,软件审计 <br/><br/>史蒂文是滑铁卢大学（ECE）的博士生，师从于著名的导师Derek Rayside和Krzysztof Czarnecki，他专注于使用高性能分布式计算和GPU改进软件审计工具和求解器。<br/><br/>此前，Steven在旧金山联合创立了一家名叫“Many Trees Inc”的创业公司，主要是使用GPUs进行机器学习和大数据分析。在他的业余时间，他喜欢使用GPU来修改内存数据库。他在加拿大国防部的密码机构工作了接近5年。 博士毕业后，就创立了Quantstamp。
-![image](hthttps://quantstamp.com/wp-content/uploads/2017/08/Richard-Ma-SQ.png) | **Richard Ma** <br/>康奈尔大学ECE，算法投资组合经理<br/><br/>比特币HFT基金的算法投资组合经理。前Tower Research资本量子策略师。在竞争激烈的美国，欧洲和亚洲地区衍生品交易所有用C++/Python/R生成过程序化交易算法。编写了数万个单元测试并构建生产级集成和验证测试软件。在Richard卓越的测试和风险管理下，他的HFT交易系统近十年来一直稳定管理着数百万美元的资产而零大事故。
-
+![image](https://quantstamp.com/wp-content/uploads/2017/09/Steven-Stewart-SQ.png)<br/> | **Steven Stewart** <br/> 滑铁卢大学ECE,软件审计 <br/><br/>史蒂文是滑铁卢大学（ECE）的博士生，师从于著名的导师Derek Rayside和Krzysztof Czarnecki，他专注于使用高性能分布式计算和GPU改进软件审计工具和求解器。<br/><br/>此前，Steven在旧金山联合创立了一家名叫“Many Trees Inc”的创业公司，主要是使用GPUs进行机器学习和大数据分析。在他的业余时间，他喜欢使用GPU来修改内存数据库。他在加拿大国防部的密码机构工作了接近5年。 博士毕业后，就创立了Quantstamp。
+![image](https://quantstamp.com/wp-content/uploads/2017/08/Richard-Ma-SQ.png) | **Richard Ma** <br/>康奈尔大学ECE，算法投资组合经理<br/><br/>比特币HFT基金的算法投资组合经理。前Tower Research资本量子策略师。在竞争激烈的美国，欧洲和亚洲地区衍生品交易所有用C++/Python/R生成过程序化交易算法。编写了数万个单元测试并构建生产级集成和验证测试软件。在Richard卓越的测试和风险管理下，他的HFT交易系统近十年来一直稳定管理着数百万美元的资产而零大事故。
 **创始成员**  | &nbsp;
----|---
 ![image](https://quantstamp.com/wp-content/uploads/2017/09/vajih.jpg) | **Dr Vajih Montaghami**，博士 <br/> Vajih Montaghami从滑铁卢大学获得博士学位，他的研究方向是校验和调试轻量级形式化模型。<br/> <br/> 在博士学习期间，他曾在Google工作过，具有丰富的大数据分析系统实战经验。他从事过有实际应用，基于海量数据源和机器学习算法的end-to-end测试自动化工作。最近，Vajih在亚马逊作为后端软件工程师协助开发高扩展性能的系统。
 ![image](https://quantstamp.com/wp-content/uploads/2017/09/ed_blue-sq2.png) | **Ed Zulkoski**，<br/> 数学与计算机科学系学士<br/> <br/> Ed Zulkoski是一名博士生，是Vijay Ganesh,Krzysztof Czarnecki管理下滑铁卢大学计算机与科学系下的候选人。他在Dr.Christopher Wintersteiger指导下完成了微软公司的研究实习。他的博士研究重点是学习并利用SAT和SMT的结构特性。他早期的工作调研了SAT结合计算机代数系统和优化技术实现多目标产品线路优化。Ed在IBM加拿大前沿学科研究中心获得了博士奖学金。
-
 **顾问** | &nbsp;
----|---
 ![image](https://quantstamp.com/wp-content/uploads/2017/08/Vijay-Ganesh-SQ.png)|**Dr. Vijay Ganesh** <br/> 滑铁卢大学助理教授 <br/><br/>Vijay Ganesh博士是滑铁卢大学的一名助理教授。在此之前，他是麻省理工学院的研究科学家，并且于2007年完成了斯坦福大学计算机科学博士学位，Vijay的主要研究领域针对软件工程的自动推理，形式化方法，安全和数学的理论和实践。<br/><br/> Vijay赢得了无数奖项，最近获得了ACM CCS 2016年度奖，2016年度早期研究员奖， ACSAC 2016年杰出论文奖，2015年IBM研究学院奖，2013年和2011年两个Google研究人员奖，以及在2008年获得了十年最具影响力的论文奖。他总共赢了9最佳论文奖/荣誉。
 ![image](https://quantstamp.com/wp-content/uploads/2017/08/Derek-SQ.png) | Dr. Derek Rayside <br/>滑铁卢大学副教授<br/><br/>Derek Rayside是滑铁卢大学工程学院下电气与计算机系的一名副教授。他的主要研究领域是轻量级的形式化方法和程序分析。他已经获得了麻省理工学院计算机科学博士学位。<br/><br/>Derek是最近一家被微软收购的滑铁卢创业公司的顾问。
 
