@@ -6,6 +6,10 @@ I love the idea, and totally agree that security is essential. I created a wecha
 
 I am going to thank all contributors for the effort, and I am going to make a list for all of you, demenstrate your contribution, and you make submit the project link as your Proof-of-Care. 
 
+This is the [Chinese version Whitepaper](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md).
+And this is [the plan](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-translation-plan.md) you guys take sections for translation 
+
+
 Here are the contributors. 
 
 1. Neil
