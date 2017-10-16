@@ -9,7 +9,7 @@ Thanks to all contributors and I am making the list for all of you, demenstrate 
 Here are the contributors. 
 
 1. Neil
-- Telegram: @yajiya
+- Telegram: [@yajiya](https://t.me/yajiya)
 - Email: yajiya@gmail.com 
 - Contribution: 
     - Create wechat group for discussion 
@@ -27,3 +27,12 @@ Here are the contributors.
        - Smart Contract Improvements 
        - How we improve the developer’s process
        - Quantstamp，by example
+       - 
+3. PITY
+- Telegram: [@pity61](https://t.me/pity61)
+- Email:boss.pity@gmail.com
+- Contribution:
+    - Whitepaper Chinese translation section
+        - Financial Planning、
+        - Research contributions by our team;
+        - Promot QSP project to telegram;
