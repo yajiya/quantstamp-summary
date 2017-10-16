@@ -36,3 +36,14 @@ Here are the contributors.
         - Financial Planning、
         - Research contributions by our team;
         - Promot QSP project to telegram;
+        
+4. LL
+- Telegram: @littleliangliang (https://t.me/littleliangliang)
+- Email: boliang87@me.com
+- Contribution:
+    - Whitepaper Chinese translation section
+        - Security Audit Engine
+        - Architectural View 
+        - Quantstamp Validation Smart Contract for Ethereum 
+        - Quantstamp Network for Ethereum
+        - Quantstamp Reports
