@@ -30,7 +30,7 @@ Here are the contributors.
        - 
 3. PITY
 - Telegram: [@pity61](https://t.me/pity61)
-- Email:boss.pity@gmail.com
+- Email: boss.pity@gmail.com
 - Contribution:
     - Whitepaper Chinese translation section
         - Financial Planning、
