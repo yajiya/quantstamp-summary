@@ -9,7 +9,7 @@ I am going to thank all contributors for the effort, and I am going to make a li
 Here are the contributors. 
 
 1. Neil
-- Telegram: @yajiya
+- Telegram: [@yajiya](https://t.me/yajiya)
 - Email: yajiya@gmail.com
 - Contribution: 
     - Create wechat group for discussion 
