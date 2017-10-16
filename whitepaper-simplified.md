@@ -151,6 +151,47 @@ Quantstamp网络（QN）是一种专用协议，能够监视与注册的智能�
 #### 并行SAT与共识
 ### 以太坊/Solidity的常见漏洞
 ## 财务计划
+财务计划
+
+财务计划 | | | | 财务计划
+---|---|---|---|---
+项目贡献目标
+最小目标| | | |最大目标
+300万美元| 600万美元| 1200万美元| 2000万美元| 3000万美元
+工程师团队（分别对应项目众筹的目标）
+3年5名全职工程师| 3年8名全职工程师|5年12名全职工程师|5年20名全职工程师|5年27名全职工程师     
+产品（分别对应项目众筹目标）
+最小的工作计划、1名全职全领域安全工程师|提高工作计划、1名全职软件测试工程师| 2名全职全领域安全工程师、针对工作计划进行核实并修正| 打造更多的基于QSP网络的生态、改善QSP网络查询| 3名全职全领域安全工程师、提高工作计划并保证最好的质量
+社区与教育（分别对应项目众筹目标）
+编写QSP使用教程、开展见面会来说明加强安全意识|编写QSP的MOOC教程、每年举办一次QSP的安全创新活动|为使用QSP的区块链企业开发更容易的材料和举办会议说明|对QSP系统开发成果有领导贡献的开源补助|我们将提高行业的平台协作、合作研究、开源补助、安全事件、编程马拉松
+商业（分别对应项目众筹目标）
+CEO管理所有非技术类成果|1名全职业务拓展专家，发展1名UX设计师|3名全职业务拓展或技术专家，用来发展并帮助企业接入QSP系统|招租多名国际业务拓展专家，用来拓展亚洲市场。|在社区、服务支持、企业发展以及国际业务拓展等领域招租更多的人。
+
+
+我们团队的研究成果
+下表包括与我们联合研究工作相联系的部分软件验证项目的一些选择。必要时，我们将这些成熟的技术，实现我们在区块链安全智能合约中的目标。
+
+名称| 成果研究者| 描述
+---|---|---
+Aolly及Aolly分析工具|Vajih Montaghami、Derek Rayside 、Steven Stewart| Aolly是一种使开发人员能够创建抽象的软件模型与成因的关系逻辑系统，Aolly分析工具有生成用户模型的示例的机械性能。最初是作为软件的一部分在麻省理工学院的丹尼尔杰克逊博士指导下的设计小组开发的。http://alloy.mit.edu/alloy/
+Bordeaux|Derek Rayside|波尔多是一种制作边界示例的基于Aolly技术和外延的技术，并改进了软件模型中的部分过约束错误的识别调试能力。https://github.com/drayside/bordeaux
+Clafer| Ed Zulkoski| Clafer是GSD实验室、滑铁卢大学的建模组与哥本哈根大学共同开发的一个通用的轻量级建模技术，轻量级建模技术旨在提高对软件开发早期阶段的领域问题的理解，且用较少的方法确定需求。Clafer的目标是使建模方式可访问范围更广的用户和域。http://www.clafer.org/
+Margaux| Derek Rayside 、Vajih Montaghami| Margaux是一个基于调试模式的可以引导用户查找bug的工具。Github页面里包含一个架构图，说明如何使用判别示例的调试器用来指导开发人员纠正逻辑推理上的缺陷。https://github.com/vmontagh/margaux
+MapleSAT、MapleCOMSPS 、MapleGlucose	Vijay Ganesh| Ed Zulkoski| 获奖的枫叶系列工具是由在滑铁卢大学开发并由Vijay Ganesh博士监督的，一个由冲突驱动的SAT冲突学习调解器。https://sites.google.com/a/gsd.uwaterloo.ca/mapl
+MathCheck| Vijay Ganesh 、Ed Zulkoski| 一个关于计算机代数系统的结合了约束规划系统的SAT求解器。关于已知结果的两个猜想的超立方体。https://sites.google.com/site/uwmathcheck/
+Miramichi| Derek Rayside、Steven Stewart| Miramichi是一个利用GPU计算性能的实验性的并行SAT求解器。https://bitbucket.org/sstewart2015/miramichi4j
+Moolloy| Derek Rayside 、Steven Stewart| moolloy是一个在科学、软件中的应用工程与金融中扩展的离散多目标优化表达问题的关系逻辑系统。https://github.com/TeamAmalgam/moolloy
+Petitcodiac| Derek Rayside、Steven Stewart| Petitcodiac是一个利用OpenMP和GPU的实验性的解决方案，如Yices和微软的Z3，通常使用一个变种单工的过程也采用了Petitcodiac。https://github.com/sstewart2012/peticodiac
+STP| Vijay Ganesh| STP是针对求解位向量和数组的约束条件的约束求解器(或SMT solver)。这些约束的类型可以通过程序生成分析工具，定理证明，自动bug查询，加密攻击工具，智能开源工具fuzzers，模型检测以及更多的应用。https://github.com/stp/stp
+
+演示系统：Parity钱包的奇偶校验的多重签名的脆弱性定位系统。
+
+我们提供了一个自动定位奇偶校验的多重签名钱包漏洞的通用技术演示系统，此漏洞导致了3260万美元被盗窃。
+
+这个简单的分析器构造了多个AST(抽象的语法树)的访问者，并使用它们提取一个稳定的Solidity合约的程序变量和调用结构。分析器可以提醒开发人员并发现任何直接或间接暴露非公共状态变量修改的公开方法。使用调用图，我们可以捕获可能存在的一类漏洞且定位其解决方案。在这个演示系统中，我们有两个solidity合约示例如何被分析者识别其直接和间接的漏洞。
+
+演示系统在Github上的代码：https://github.com/quantstamp/solidity-analyzer
+
 ## 团队调研贡献
 ### Demo:定位Parity多方签名漏洞
 ## 常见问题与解答
