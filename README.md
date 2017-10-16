@@ -48,7 +48,7 @@ Here are the contributors.
         - Quantstamp Reports
         - Promot QSP project to telegram;
 
-5. 周亮
+5. Mark
 - Telegram: 【@mark4511】(https://t.me/mark4511)
 - Email: 451134693@qq.com
 - Contribution:
