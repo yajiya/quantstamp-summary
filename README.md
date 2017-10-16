@@ -16,34 +16,44 @@ Here are the contributors.
     - Creator of the co-translate project. 
     - Translate whitepaper section: 
         - The Problem
-        - Quantstamp​ ​Protocol
-        - Quantstamp,​ ​by​ ​example
+        - Quantstamp Protocol
+        - Quantstamp, by example
 
 2. xiaohei
 - Telegram: 15536543642
 - Email: xiaoheilian666@gmail.com
 - Contribution:
     - Translate whitepaper section: 
-       - Smart Contract Improvements 
-       - How we improve the developer’s process
-       - Quantstamp，by example
-       - 
+        - Smart Contract Improvements 
+        - How we improve the developer’s process
+        
 3. PITY
 - Telegram: [@pity61](https://t.me/pity61)
 - Email: boss.pity@gmail.com
 - Contribution:
-    - Whitepaper Chinese translation section
+    - Translate whitepaper section
         - Financial Planning、
         - Research contributions by our team;
         - Promot QSP project to telegram;
         
 4. LL
-- Telegram: @littleliangliang (https://t.me/littleliangliang)
+- Telegram: [@littleliangliang](https://t.me/littleliangliang)
 - Email: boliang87@me.com
 - Contribution:
-    - Whitepaper Chinese translation section
+    - Translate whitepaper section
         - Security Audit Engine
-        - Architectural View 
+        - Architectural View z
         - Quantstamp Validation Smart Contract for Ethereum 
         - Quantstamp Network for Ethereum
         - Quantstamp Reports
+        - Promot QSP project to telegram;
+
+5. 周亮
+- Telegram: 【@mark4511】(https://t.me/mark4511)
+- Email: 451134693@qq.com
+- Contribution:
+    - Translate whitepaper section:
+		- Validation Protocol
+		- Design
+		- FAQ
+
