@@ -1,6 +1,9 @@
 # Co-translate quantstamp whitepaper
 
-All the links here for easy access 为方便访问链接都在这里:
+### Offical links
+
+All the links here for easy access   
+为方便访问链接都在这里:
 
 [offical website 官网](https://quantstamp.com/)  
 [offical telegram group官网电报社区](https://t.me/quantstamp)  
@@ -11,16 +14,17 @@ All the links here for easy access 为方便访问链接都在这里:
 [youtube 油管](https://www.youtube.com/channel/UCXP3YLX4JdI0gGb9UKSunMg)  
 [github](https://github.com/quantstamp)
 
-翻译
+### Translation 翻译
+
 [Whitepaper Chinese version 中文版本白皮书](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md)   
 
 Medium Post   
 [公布Quantstamp顾问委员会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20170926-announcing-quantstamps-advisory-board.md)   
 [感谢我们的社区](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171006-thank-you-to-our-community.md)  
-[公布关爱证明会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171009-announcing-announcing-proof-of-caring.md)  
+[公布关爱证明](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171009-announcing-announcing-proof-of-caring.md)  
 ...
 
-
+## About the project
 
 There are tons of new different blockchain projects coming out and ICO every day. Lots of them just borrow ideas here and there. I'd like to see some fresh ones, and when I meet [Quantstamp](http://quantstamp.com/), I feel it's fresh. 
 
@@ -31,9 +35,10 @@ I am going to thank all contributors for the effort, and I am going to make a li
 This is the [Chinese version Whitepaper](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md).
 And this is [the plan](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-translation-plan.md) you guys take sections for translation 
 
-**For better spearding of the amazing project, I am going to translate quantstamp medium post too for the chinese language community**
+**For better spearding of the amazing project, I am going to translate quantstamp medium post too for the chinese language community.**
 
-I will link all realated post here for easy access.
+
+### Contributors and contribution
 
 Here are the contributors. 
 
@@ -41,13 +46,13 @@ Here are the contributors.
 - Telegram: [@yajiya](https://t.me/yajiya)
 - Email: yajiya@gmail.com 
 - Contribution: 
-    - Create wechat group for discussion 
-    - Creator of the co-translate project. 
+    - Create wechat group for discussion and spreading
+    - Creator of the co-translation project. 
     - Translate whitepaper section: 
         - The Problem
         - Quantstamp Protocol
         - Quantstamp, by example
-	- Medium post translation
+	- Translate medium post to Chinese
 
 2. xiaohei
 - Telegram: 15536543642
@@ -61,7 +66,7 @@ Here are the contributors.
 - Telegram: [@pity61](https://t.me/pity61)
 - Email: boss.pity@gmail.com
 - Contribution:
-    - Whitepaper Chinese translation section
+    - Translate whitepaper section: 
         - Financial Planning、
         - Research contributions by our team;
         - Promot QSP project to telegram;
@@ -70,7 +75,7 @@ Here are the contributors.
 - Telegram: [@littleliangliang](https://t.me/littleliangliang)
 - Email: boliang87@me.com
 - Contribution:
-    - Whitepaper Chinese translation section
+    - Translate whitepaper section: 
         - Security Audit Engine
         - Architectural View z
         - Quantstamp Validation Smart Contract for Ethereum 
@@ -79,11 +84,22 @@ Here are the contributors.
         - Promot QSP project to telegram;
 
 5. Mark
-- Telegram: 【@mark4511】(https://t.me/mark4511)
+- Telegram: [@mark4511](https://t.me/mark4511)
 - Email: 451134693@qq.com
 - Contribution:
-    - Translate whitepaper section:
+    - Translate whitepaper section: 
     - Validation Protocol
     - Design
     - FAQ
 
+
+6. Kerwin
+- Telegram: [@kerwinguo](https://t.me/kerwinguo)
+- Email: lizugenbj@126.com
+- Contribution:
+    - Translate whitepaper section: 
+		- Detailed ​Bios、
+		- Addendum ​ ​A;
+	- Promot QSP project on telegram and slack;
+	
+	
