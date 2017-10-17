@@ -23,6 +23,9 @@ Whitepaper 白皮书
 Telegram Announcement 电报公告  
 [TelegramANN 电报公告](https://github.com/yajiya/quantstamp-summary/blob/master/telegram-quantstampann-selective.md)   
 
+FAQ 常见问题解答  
+[FAQ 常见问题解答](https://github.com/yajiya/quantstamp-summary/blob/master/faqs-by-the-quantstamp-community.md)   
+
 Medium Post Medium博文  
 [公布Quantstamp顾问委员会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20170926-announcing-quantstamps-advisory-board.md)   
 [感谢我们的社区](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171006-thank-you-to-our-community.md)  
