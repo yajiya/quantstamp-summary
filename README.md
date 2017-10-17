@@ -1,6 +1,7 @@
-# Co-translate quantstamp whitepaper
+# Co-translate quantstamp to Chinese
 
-### Offical links
+
+### Offical links 官方链接
 
 All the links here for easy access   
 为方便访问链接都在这里:
@@ -16,14 +17,18 @@ All the links here for easy access
 
 ### Translation 翻译
 
-[Whitepaper Chinese version 中文版本白皮书](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md)   
+Whitepaper 白皮书  
+[Whitepaper version 白皮书](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md)   
 
-Medium Post   
+Telegram Announcement 电报公告  
+[TelegramANN 电报公告](https://github.com/yajiya/quantstamp-summary/blob/master/telegram-quantstampann-selective.md)   
+
+Medium Post Medium博文  
 [公布Quantstamp顾问委员会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20170926-announcing-quantstamps-advisory-board.md)   
 [感谢我们的社区](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171006-thank-you-to-our-community.md)  
 [公布关爱证明](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171009-announcing-announcing-proof-of-caring.md)  
 [Request Network令牌销售智能合约安全审计摘要](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171012-request-network-token-sale-smart-contract-security-audit-summary.md)  
-[迷人的一周](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171013-what-an-amazing-week.md)    
+[迷人的一周](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171013-what-an-amazing-week.md)  
 ...
 
 ## About the project
