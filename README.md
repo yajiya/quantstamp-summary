@@ -22,6 +22,8 @@ Medium Post
 [公布Quantstamp顾问委员会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20170926-announcing-quantstamps-advisory-board.md)   
 [感谢我们的社区](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171006-thank-you-to-our-community.md)  
 [公布关爱证明](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171009-announcing-announcing-proof-of-caring.md)  
+[Request Network令牌销售智能合约安全审计摘要](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171012-request-network-token-sale-smart-contract-security-audit-summary.md)  
+[迷人的一周](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171013-what-an-amazing-week.md)    
 ...
 
 ## About the project
@@ -53,6 +55,7 @@ Here are the contributors.
         - Quantstamp Protocol
         - Quantstamp, by example
 	- Translate medium post to Chinese
+	- Promot Quantstamp to different audiences in different scenarios
 
 2. xiaohei
 - Telegram: 15536543642
