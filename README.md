@@ -1,5 +1,27 @@
 # Co-translate quantstamp whitepaper
 
+All the links here for easy access 为方便访问链接都在这里:
+
+[offical website 官网](https://quantstamp.com/)  
+[offical telegram group官网电报社区](https://t.me/quantstamp)  
+[offical telegram channel官网电报公告](https://t.me/quantstampANN)  
+[facebook 脸书](https://www.facebook.com/quantstamp/)  
+[twitter 推特](https://twitter.com/Quantstamp)  
+[linkedin 领英](https://www.linkedin.com/company/25057251/)  
+[youtube 油管](https://www.youtube.com/channel/UCXP3YLX4JdI0gGb9UKSunMg)  
+[github](https://github.com/quantstamp)
+
+翻译
+[Whitepaper Chinese version 中文版本白皮书](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md)   
+
+Medium Post   
+[公布Quantstamp顾问委员会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20170926-announcing-quantstamps-advisory-board.md)   
+[感谢我们的社区](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171006-thank-you-to-our-community.md)  
+[公布关爱证明会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171009-announcing-announcing-proof-of-caring.md)  
+...
+
+
+
 There are tons of new different blockchain projects coming out and ICO every day. Lots of them just borrow ideas here and there. I'd like to see some fresh ones, and when I meet [Quantstamp](http://quantstamp.com/), I feel it's fresh. 
 
 I love the idea, and totally agree that security is essential. I created a wechat group and shared some basic and summarized information about quantstamp. And some of the members are interested in it too. I mentioned I want to translate the whitepaper and they want to make contribution too. Then I create the project here for easy access.
@@ -10,6 +32,7 @@ This is the [Chinese version Whitepaper](https://github.com/yajiya/quantstamp-su
 And this is [the plan](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-translation-plan.md) you guys take sections for translation 
 
 **For better spearding of the amazing project, I am going to translate quantstamp medium post too for the chinese language community**
+
 I will link all realated post here for easy access.
 
 Here are the contributors. 
