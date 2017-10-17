@@ -9,6 +9,8 @@ I am going to thank all contributors for the effort, and I am going to make a li
 This is the [Chinese version Whitepaper](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md).
 And this is [the plan](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-translation-plan.md) you guys take sections for translation 
 
+**For better spearding of the amazing project, I am going to translate quantstamp medium post too for the chinese language community**
+I will link all realated post here for easy access.
 
 Here are the contributors. 
 
@@ -22,6 +24,7 @@ Here are the contributors.
         - The Problem
         - Quantstamp Protocol
         - Quantstamp, by example
+	- Medium post translation
 
 2. xiaohei
 - Telegram: 15536543642
