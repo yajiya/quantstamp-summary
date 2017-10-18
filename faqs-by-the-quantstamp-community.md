@@ -13,7 +13,7 @@ Quantstamp让[Ethereum](https://ethereum.org/)安全化。我们用独特的套�
 未来，Quantstamp目标扩展安全库来支持Solidity以外的程序语言，还有为其他平台实现的Quantstamp API
 
 
-##### 大约过去一周设计增长迅猛，所有人都会在关爱证明清单中么
+##### 大约过去一周社区增长迅猛，所有人都会在关爱证明清单中么
 不是所有人。只要预售在进行，我们就会告知大家。通过我们的电报Channel接受通知。   
 
 从这里度Richard Ma关于预售的说明
