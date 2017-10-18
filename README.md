@@ -112,4 +112,12 @@ Here are the contributors.
 		- Addendum ​ ​A;
 	- Promot QSP project on telegram and slack;
 	
+
+7. Mark
+- Telegram: [@Soleil1991]https://t.me/Soleil1991
+- Email: 563718879@qq.com
+- Contribution:
+    - Translate whitepaper section: 
+        - Parallel SAT and consensus
+        - Common vulnerabilities for Ethereum/Solidity
 	
