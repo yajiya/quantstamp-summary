@@ -3,9 +3,6 @@
 
 ### Offical links 官方链接
 
-All the links here for easy access   
-为方便访问链接都在这里:
-
 [offical website 官网](https://quantstamp.com/)  
 [offical telegram group官网电报社区](https://t.me/quantstamp)  
 [offical telegram channel官网电报公告](https://t.me/quantstampANN)  
@@ -63,6 +60,8 @@ Here are the contributors.
         - Quantstamp Protocol
         - Quantstamp, by example
 	- Translate medium post to Chinese
+	- Translate TelegramANN selective to Chinese
+	- Github project of awesome-quantstamp, which will link to kinds of awesome stuffs about quantstamp
 	- Promot Quantstamp to different audiences in different scenarios
 
 2. xiaohei
