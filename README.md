@@ -55,13 +55,14 @@ Here are the contributors.
 - Contribution: 
     - Create wechat group for discussion and spreading
     - Creator of the co-translation project. 
+	- Make some summary of the project in Chinese language, which let it be easy for quotation or reference or spreading.
     - Translate whitepaper section: 
         - The Problem
         - Quantstamp Protocol
         - Quantstamp, by example
 	- Translate medium post to Chinese
 	- Translate TelegramANN selective to Chinese
-	- Github project of awesome-quantstamp, which will link to kinds of awesome stuffs about quantstamp
+	- Creator of Github project of awesome-quantstamp, which will link to kinds of awesome stuffs about quantstamp
 	- Promot Quantstamp to different audiences in different scenarios
 
 2. xiaohei
@@ -91,7 +92,7 @@ Here are the contributors.
         - Quantstamp Validation Smart Contract for Ethereum 
         - Quantstamp Network for Ethereum
         - Quantstamp Reports
-        - Promot QSP project to telegram;
+	- Promot QSP project to telegram;
 
 5. Mark
 - Telegram: [@mark4511](https://t.me/mark4511)
