@@ -70,6 +70,9 @@ QSP总共为10亿代币
 ##### QSP令牌是证券么？
 我们的法律顾问很确信，QSP不是证券。更多细节看这里。[https://goo.gl/7npjvz](https://goo.gl/7npjvz)
 
+##### Quantstamp是单独的链，还是运行在Ethereum上的链？
+我们在开发一个修改版的Ethereum客户端，然后监视所有的Quantstamp交易，执行安全审计，然后达成共识。
+
 ##### Quantstamp网络（QN）使用EVM（Ethereum虚拟机）么？
 QN用于执行安全设计。使用来自正式方法和软件验证的自动推理工具。
 
