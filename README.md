@@ -124,7 +124,7 @@ Here are the contributors.
         - Common vulnerabilities for Ethereum/Solidity
 	
 
-8. Mark
+8. Leisu
 - Telegram: [@leisu188]https://t.me/leisu188
 - Email: 1005080511@qq.com
 - Contribution:
