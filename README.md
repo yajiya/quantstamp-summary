@@ -112,7 +112,7 @@ Here are the contributors.
     - Translate whitepaper section: 
 		- Detailed ​Bios、
 		- Addendum ​ ​A;
-	- Promot QSP project on telegram and slack;
+	- Promot QSP project on telegram and slack
 	
 
 7. Mark
@@ -130,4 +130,13 @@ Here are the contributors.
 - Contribution:
 	- Translate whitepaper section
 		- Common vulnerabilities for Ethereum/Solidity
+	
+- 9. Allen
+- Telegram: @dreamhigh2017
+- Email: hx2260575056@gmail.com
+- Contribution:
+	- Translate whitepaper section
+		- Addendum B
+	- Promot QSP project on telegram and slack
+	
 	
