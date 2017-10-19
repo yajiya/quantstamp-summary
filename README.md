@@ -62,6 +62,7 @@ Here are the contributors.
         - Quantstamp, by example
 	- Translate medium post to Chinese
 	- Translate TelegramANN selective to Chinese
+	- Audit work of the translation
 	- Creator of Github project of awesome-quantstamp, which will link to kinds of awesome stuffs about quantstamp
 	- Promot Quantstamp to different audiences in different scenarios
 
@@ -121,4 +122,12 @@ Here are the contributors.
     - Translate whitepaper section: 
         - Parallel SAT and consensus
         - Common vulnerabilities for Ethereum/Solidity
+	
+
+8. Mark
+- Telegram: [@leisu188]https://t.me/leisu188
+- Email: 1005080511@qq.com
+- Contribution:
+	- Translate whitepaper section
+		- Common vulnerabilities for Ethereum/Solidity
 	
