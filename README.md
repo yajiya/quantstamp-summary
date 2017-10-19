@@ -131,7 +131,7 @@ Here are the contributors.
 	- Translate whitepaper section
 		- Common vulnerabilities for Ethereum/Solidity
 	
-- 9. Allen
+9. Allen
 - Telegram: @dreamhigh2017
 - Email: hx2260575056@gmail.com
 - Contribution:
