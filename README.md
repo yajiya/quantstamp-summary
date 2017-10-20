@@ -138,11 +138,9 @@ Here are the contributors.
 		- Common vulnerabilities for Ethereum/Solidity
 	
 9. Allen
-- Telegram:  [@dreamhigh2017]https://t.me/dreamhigh2017
+- Telegram:  [@dreamhigh2017]https://t.me/dreamhigh2017)
 - Email: hx2260575056@gmail.com
 - Contribution:
 	- Translate whitepaper section (**Good Quality** -- audited by [@yajiya](https://t.me/yajiya)
 		- Addendum B 
     - Promot QSP project on telegram and slack
-	
-	
