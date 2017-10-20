@@ -1,6 +1,13 @@
 # Co-translate quantstamp to Chinese
 
 
+---
+
+**[FOR POC REVIEWER, link to Contributors and contribution](https://github.com/yajiya/quantstamp-summary#contributors-and-contribution)**
+
+---
+
+
 ### Offical links 官方链接
 
 [offical website 官网](https://quantstamp.com/)  
@@ -72,16 +79,16 @@ Here are the contributors.
 - Contribution:
     - Translate whitepaper section: 
         - Smart Contract Improvements 
-        - How we improve the developer’s process
+        - How we improve the developer's process
         
 3. PITY
 - Telegram: [@pity61](https://t.me/pity61)
 - Email: boss.pity@gmail.com
 - Contribution:
     - Translate whitepaper section: 
-        - Financial Planning、
+        - Financial Planning
         - Research contributions by our team;
-        - Promot QSP project to telegram;
+    - Promot QSP project to telegram;
         
 4. LL
 - Telegram: [@littleliangliang](https://t.me/littleliangliang)
@@ -89,7 +96,7 @@ Here are the contributors.
 - Contribution:
     - Translate whitepaper section: 
         - Security Audit Engine
-        - Architectural View z
+        - Architectural View
         - Quantstamp Validation Smart Contract for Ethereum 
         - Quantstamp Network for Ethereum
         - Quantstamp Reports
@@ -99,11 +106,10 @@ Here are the contributors.
 - Telegram: [@mark4511](https://t.me/mark4511)
 - Email: 451134693@qq.com
 - Contribution:
-    - Translate whitepaper section: 
-    - Validation Protocol
-    - Design
-    - FAQ
-
+    - Translate whitepaper section:  (**Really Hight Quality** -- audited by [@yajiya](https://t.me/yajiya)
+        - Validation Protocol
+        - Design
+        - FAQ
 
 6. Kerwin
 - Telegram: [@kerwinguo](https://t.me/kerwinguo)
@@ -115,7 +121,7 @@ Here are the contributors.
 	- Promot QSP project on telegram and slack
 	
 
-7. Mark
+7. Solei
 - Telegram: [@Soleil1991]https://t.me/Soleil1991
 - Email: 563718879@qq.com
 - Contribution:
@@ -131,12 +137,12 @@ Here are the contributors.
 	- Translate whitepaper section
 		- Common vulnerabilities for Ethereum/Solidity
 	
-- 9. Allen
-- Telegram: @dreamhigh2017
+9. Allen
+- Telegram:  [@dreamhigh2017]https://t.me/dreamhigh2017
 - Email: hx2260575056@gmail.com
 - Contribution:
-	- Translate whitepaper section
-		- Addendum B
-	- Promot QSP project on telegram and slack
+	- Translate whitepaper section (**Good Quality** -- audited by [@yajiya](https://t.me/yajiya)
+		- Addendum B 
+    - Promot QSP project on telegram and slack
 	
 	
