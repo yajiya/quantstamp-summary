@@ -67,6 +67,11 @@ Here are the contributors.
         - The Problem
         - Quantstamp Protocol
         - Quantstamp, by example
+        - Tradecraft
+        - Incremental​ ​releases​ ​and​ ​the​ ​subscription​ ​model
+		- Bug​ ​Finders		
+		- Security​ ​Disclosure​ ​Strategy	
+		- Re-translate Distributed​ ​and​ ​Parallel​ ​SAT
 	- Translate medium post to Chinese
 	- Translate TelegramANN selective to Chinese
 	- Audit work of the translation
