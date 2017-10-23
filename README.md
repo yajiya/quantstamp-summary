@@ -3,7 +3,7 @@
 
 ---
 
-**[FOR POC REVIEWER, link to Contributors and contribution](https://github.com/yajiya/quantstamp-summary#contributors-and-contribution)**
+**[FOR POC REVIEWERS, link to contributors and contribution](https://github.com/yajiya/quantstamp-summary#contributors-and-contribution)**
 
 ---
 
@@ -21,21 +21,21 @@
 
 ### Translation 翻译
 
-Whitepaper 白皮书  
-[Whitepaper version 白皮书](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md)   
+Whitepaper Chinese 白皮书  
+[中文白皮书](https://github.com/yajiya/quantstamp-summary/blob/master/whitepaper-simplified.md)   
 
 Telegram Announcement 电报公告  
-[TelegramANN 电报公告](https://github.com/yajiya/quantstamp-summary/blob/master/telegram-quantstampann-selective.md)   
+[电报公告](https://github.com/yajiya/quantstamp-summary/blob/master/telegram-quantstampann-selective.md)   
 
 FAQ 常见问题解答  
-[FAQ 常见问题解答](https://github.com/yajiya/quantstamp-summary/blob/master/faqs-by-the-quantstamp-community.md)   
+[常见问题解答](https://github.com/yajiya/quantstamp-summary/blob/master/faqs-by-the-quantstamp-community.md)   
 
 Medium Post Medium博文  
-[公布Quantstamp顾问委员会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20170926-announcing-quantstamps-advisory-board.md)   
-[感谢我们的社区](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171006-thank-you-to-our-community.md)  
-[公布关爱证明](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171009-announcing-announcing-proof-of-caring.md)  
-[Request Network令牌销售智能合约安全审计摘要](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171012-request-network-token-sale-smart-contract-security-audit-summary.md)  
-[迷人的一周](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171013-what-an-amazing-week.md)  
+[2017-09-26 公布Quantstamp顾问委员会](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20170926-announcing-quantstamps-advisory-board.md)   
+[2017-10-06 感谢我们的社区](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171006-thank-you-to-our-community.md)  
+[2017-10-10 公布关爱证明](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171009-announcing-announcing-proof-of-caring.md)  
+[2017-10-12 Request Network令牌销售智能合约安全审计摘要](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171012-request-network-token-sale-smart-contract-security-audit-summary.md)  
+[2017-10-13 迷人的一周](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171013-what-an-amazing-week.md)  
 ...
 
 ## About the project
@@ -77,6 +77,7 @@ Here are the contributors.
 	- Audit work of the translation
 	- Creator of Github project of awesome-quantstamp, which will link to kinds of awesome stuffs about quantstamp
 	- Promot Quantstamp to different audiences in different scenarios
+	- Involve in telegram group and answer kind of questions in spare time.
 
 2. xiaohei
 - Telegram: 15536543642
@@ -134,7 +135,6 @@ Here are the contributors.
         - Parallel SAT and consensus
         - Common vulnerabilities for Ethereum/Solidity
 	
-
 8. Leisu
 - Telegram: [@leisu188]https://t.me/leisu188
 - Email: 1005080511@qq.com
