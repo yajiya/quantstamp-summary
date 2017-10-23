@@ -1,5 +1,43 @@
 # 选择性的电报公告
 
+
+2017-10-23  
+
+大家好，如果你们收到了来自richard@quantstamp.com的邮件，并且是在垃圾邮件中，请把他标记为“非垃圾邮件”，我们需要训练google垃圾邮件过滤器，因为我们有庞大的邮件发送列表。
+
+---
+
+2017-10-23  
+
+我们的电报群刚刚超过了1万人！非常感谢大家，你们一直以来对社区的支持和帮助。
+
+---
+
+2017-10-22  
+
+在LinkedIn上添加我们去了解创始人
+[https://www.linkedin.com/in/rtmtd/](https://www.linkedin.com/in/rtmtd/)
+[https://www.linkedin.com/in/stevenstewart2015/](https://www.linkedin.com/in/stevenstewart2015/)
+---
+
+2017-10-22  
+
+在Quantstamp，我们认为学习是很关键的。 通过PoC，只有学习了这个项目人才能够做出贡献。我们正在建立一个强大的团结社区，在这里每个人都了解我们的长期使命（同时也有一点乐趣）。
+
+---
+
+2017-10-22  
+
+所有关于Quantstamp项目和代币销售的官方更新，都会通过电报公告渠道。
+
+所有其他消息来源或者直接的私聊都是非官方的，并且很多都可能是诈骗。请留意声称是官方或者要求转账给假地址的私聊消息。如果有任何的诈骗请联系管理员，这样可以帮助我们保护社区成员和大家的资金。
+
+如果你不确定，请联系社区管理员 [@krishnasriram](https://t.me/@krishnasriram) 或者 [@JaredHarrill](https://t.me/JaredHarrill)
+
+如果你看到诈骗地址，可以去[https://etherscamdb.info/report/domain/](https://etherscamdb.info/report/domain/)举报。
+
+---
+
 2017-10-20  
 
 大家好，层级1已经正式关闭了，感谢所有人这些令人惊喜的响应。我们接下来要处理超过3000份提交，然后发出KYC邮件。
