@@ -4,9 +4,9 @@
 2017-10-24  
 
 请确保只相信验证过的Quantstamp渠道。如果你加入了一个假的channel，请告知我们，来保护你的朋友和整个社区。
-只有两个渠道：
-https://t.me/quantstampANN
-https://t.me/quantstamp
+只有两个渠道：  
+https://t.me/quantstampANN  
+https://t.me/quantstamp  
 
 ---
 
