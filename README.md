@@ -38,6 +38,9 @@ Medium Post Medium博文
 [2017-10-13 迷人的一周](https://github.com/yajiya/quantstamp-summary/blob/master/medium-20171013-what-an-amazing-week.md)  
 ...
 
+### Others links 其他链接
+[Awesome Quantstamp](https://github.com/yajiya/awesome-quantstamp)
+
 ## About the project
 
 There are tons of new different blockchain projects coming out and ICO every day. Lots of them just borrow ideas here and there. I'd like to see some fresh ones, and when I meet [Quantstamp](http://quantstamp.com/), I feel it's fresh. 
@@ -75,7 +78,7 @@ Here are the contributors.
 	- Translate medium post to Chinese
 	- Translate TelegramANN selective to Chinese
 	- Audit work of the translation
-	- Creator of Github project of awesome-quantstamp, which will link to kinds of awesome stuffs about quantstamp
+	- Creator of Github project of [awesome-quantstamp](https://github.com/yajiya/awesome-quantstamp), which will link to kinds of awesome stuffs about quantstamp
 	- Promot Quantstamp to different audiences in different scenarios
 	- Involve in telegram group and answer kind of questions in spare time.
 
