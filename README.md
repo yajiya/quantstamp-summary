@@ -3,6 +3,11 @@
 
 ---
 
+FOR TOMOCOIN POC REVIEWERS, last 6 symbol of my address is6414e4
+
+---
+---
+
 **[FOR POC REVIEWERS, link to contributors and contribution](https://github.com/yajiya/quantstamp-summary#contributors-and-contribution)**
 
 ---
